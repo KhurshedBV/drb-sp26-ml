@@ -1,4 +1,4 @@
-# Workspace for Spring 20246 Machine Learning course
+# Workspace for Spring 2026 Machine Learning course
 
 
 ## Week 1 (1/20, 1/22)
