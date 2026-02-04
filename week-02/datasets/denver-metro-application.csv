@@ -1,0 +1,9 @@
+age,income,city,job_type,education,approved
+22,42000,Denver,tech,BS,No
+45,98000,Boulder,admin,MS,Yes
+36,76000,Denver,tech,BS,Yes
+52,110000,Aurora,sales,PhD,Yes
+23,39000,Aurora,sales,HS,No
+40,88000,Denver,tech,MS,Yes
+29,61000,Boulder,admin,BS,No
+33,69000,Denver,sales,HS,Yes
